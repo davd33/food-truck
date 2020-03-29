@@ -26,4 +26,8 @@ On va prendre une caravane.
 
 Réunir liste des contraintes.
 
+| Contrainte | Dépendante du lieu (o/n) |
+|------------+--------------------------|
+|            |                          |
+
 ** TODO Estimation du capital
