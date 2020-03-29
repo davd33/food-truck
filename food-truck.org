@@ -1,0 +1,29 @@
+#+TITLE: Food truck in France!
+
+* Meetings
+
+** Motivation
+
+Créer une  entreprise qui partage  une idée d'autonomie aux  gens dans
+tous les domaines de la vie.  La motivation pour la vie en communauté.
+Réveiller les gens  qui sont "avant" nous et qui  n'ont pas encore eut
+cette prise de conscience.
+
+Afin de réveiller cette connection  : proposer des activité de cuisine
+/ utiliser des resources locales.  Montrer les tech libres.  Parler de
+démocratie et  des valeurs civique  : comment reprendre le  pouvoir en
+tant qu'individus et communautés.  Réunir toutes ces idées !
+
+Et le tout est sensé nous faire grandir. C'est énorme !
+
+** Food truck
+
+On va prendre une caravane.
+
+* Tasks
+
+** TODO contraintes réglementaires
+
+Réunir liste des contraintes.
+
+** TODO Estimation du capital
